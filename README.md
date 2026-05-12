@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-CS STUDENT | FRONT END DEVELOPER
+CS STUDENT
 
 
 ## 🌐 Socials:
